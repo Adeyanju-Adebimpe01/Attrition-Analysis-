@@ -39,6 +39,7 @@ The Diamond Organization is a mid-sized organization experiencing increasing emp
 
 ## 📂 Dataset
 The dataset contains employee information including 
+
 -Age 
 -Department
 -Job role 
@@ -49,7 +50,6 @@ The dataset contains employee information including
 -Attrition Status 
 Source: Kaggle 
 Rows: 1471
-Columns: 
 File Type: csv
 
 ## 🛠 Tools Used
