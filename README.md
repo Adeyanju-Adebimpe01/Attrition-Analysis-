@@ -1,13 +1,21 @@
 HR Attrition Analysis
 
 📚 Table of Contents
+
 Project Overview
+
 Tools & Technologies
+
 Excel for Data Formatting & Pre-Processing
+
 Dataset Breakdown
+
 Data Transformation
+
 Power BI Dashboard
+
 Insights & Findings
+
 Recommendations
 
 Problem Statement
