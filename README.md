@@ -1,11 +1,16 @@
-# Attrition-Analysis-
+HR Attrition Analysis
 
-Project Title
-
-HR ATTRITION ANALYSIS 
+📚 Table of Contents
+Project Overview
+Tools & Technologies
+Excel for Data Formatting & Pre-Processing
+Dataset Breakdown
+Data Transformation
+Power BI Dashboard
+Insights & Findings
+Recommendations
 
 Problem Statement
-
 The Diamond Organization is a mid-sized organization experiencing increasing employee attrition across multiple departments, with high concentration observed in specific job roles and age demographics. However, the organization lacks a centralized and data driven report system to monitor workforce trends, root causes and strategic recommendations.
  
 
