@@ -1,4 +1,4 @@
-HR Attrition Analysis
+## HR Attrition Analysis
 
 📚 Table of Contents
 
@@ -18,32 +18,32 @@ Insights & Findings
 
 Recommendations
 
-Problem Statement
+## Problem Statement
 The Diamond Organization is a mid-sized organization experiencing increasing employee attrition across multiple departments, with high concentration observed in specific job roles and age demographics. However, the organization lacks a centralized and data driven report system to monitor workforce trends, root causes and strategic recommendations.
  
 
-Objectives
+## Objectives
 
 - Identify key factors driving employee attrition
 - Analyze attrition trends across departments and job roles
 - Assess the impact of job satisfaction on attrition
 - Provide strategic recommendations to improve employee retention
 
-📂 Dataset
+## 📂 Dataset
 
 Source: Kaggle 
 Rows: 1471
 Columns: 
 File Type: csv
 
-🛠 Tools Used
+## 🛠 Tools Used
 
 - Excel
 - Pivot tables
 - Pivot Charts
 - Dashbaord
 
-🧹 Data Cleaning
+## 🧹 Data Cleaning
 
 - Formatted and standardized columns
 - Filtered out blanks and duplicates e.g.  the departure date column has blanks, a helper column was created and the blanks were replaced with “Active Employees”
@@ -52,7 +52,7 @@ File Type: csv
 - Created pivot tables to calculate KPI such as total employee count, total attrition count, active employees, attrition rate (%) and average age
 - Inserted slicers for dynamic filtering of data
 
-Analysis Questions
+## Analysis Questions
 
 1. How does the organization attrition rate compare to the industry benchmark?
 2. Which Department has the highest attrition?
