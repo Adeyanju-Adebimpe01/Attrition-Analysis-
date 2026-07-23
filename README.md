@@ -1,3 +1,5 @@
+## HR ATTRITION ANALYSIS 
+
 ## 📚 Table of Contents
 
 - [Project Overview](#project-overview)
@@ -47,6 +49,9 @@ The dataset contains employee-level information, including:
 - Created age groups (18–24, 25–34, 35–44, 45–54, and 55+) using a helper column.
 - Built Pivot Tables to calculate key performance indicators (KPIs), including Total Employees, Active Employees, Total Attrition, Attrition Rate, and Average Age.
 - Added slicers to enable interactive dashboard filtering.
+  
+<img width="1020" height="655" alt="Screenshot 2026-07-23 140248" src="https://github.com/user-attachments/assets/89efa6b5-d9dd-4fab-9528-e3efbfccc08c" />
+<img width="893" height="530" alt="Screenshot 2026-07-23 140301" src="https://github.com/user-attachments/assets/82133cea-06ff-485e-b984-08af03bc5fca" />
 
 ## Key Insights 
 - Laboratory Technicians role recorded the highest employee attrition (62 employees), indicating that entry-level technical positions may experience greater turnover due to career progression and external job opportunities.
