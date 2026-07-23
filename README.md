@@ -62,7 +62,9 @@ The company’s attrition rate is higher than the normal benchmark. The actual a
 
 ## 📊 Dashboard
 
-!Screenshot 2026-07-04 165217.png
+<img width="1217" height="612" alt="image" src="https://github.com/user-attachments/assets/ac4a50c0-f71a-4a83-abe8-78577c703e97" />
+
+
 
 ## Recommendations
 
