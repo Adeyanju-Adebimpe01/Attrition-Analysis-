@@ -24,7 +24,7 @@
 
 -[Recommendations](#recommendations)
 
--[conclusion](#conclusion)
+-[Conclusion](#conclusion)
 
 ## Problem Statement
 The Diamond Organization is a mid-sized organization experiencing increasing employee attrition across multiple departments, with high concentration observed in specific job roles and age demographics. However, the organization lacks a centralized and data driven report system to monitor workforce trends, root causes and strategic recommendations.
@@ -38,7 +38,15 @@ The Diamond Organization is a mid-sized organization experiencing increasing emp
 - Provide strategic recommendations to improve employee retention
 
 ## 📂 Dataset
-
+The dataset contains employee information including 
+-Age 
+-Department
+-Job role 
+-Education 
+-Monthly income 
+-Years at company 
+-Job Satisfaction 
+-Attrition Status 
 Source: Kaggle 
 Rows: 1471
 Columns: 
