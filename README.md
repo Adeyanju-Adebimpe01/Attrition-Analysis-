@@ -9,13 +9,21 @@
 -[Business Problem](#business-problem)
 
 -[Objectives](#objectives)
+
 -[Tools & Technologies](#tools--technologies)
+
 -[Dataset](#dataset)
+
 -[Data cleaning and transformation](#data-cleaning--transformation)
+
 -[Business Questions](#bsuiness-questions)
+
 -[Key Insights](#key-insights)
+
 -[Dashboard Preview](#dashboard-preview)
+
 -[Recommendations](#recommendations)
+
 -[conclusion](#conclusion)
 
 ## Problem Statement
